@@ -11,11 +11,11 @@ Es muy importante que leas esto para darte algunas especificaciones del circuito
 
 •	Protoboard
 •	Cables de conexión 
-•	Resistor 100, 10k
+•	Resistor 100, 1k, 10k
 •	Capacitor (2) 22pF
 •	LED
 •	Xtal 8MHz
-• Push Button
+•	Push Button
 •	PIC16F877A  
 
 //Nota: Alimentar el circuito a 5V para no dañar el microcontrolador
