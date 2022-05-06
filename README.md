@@ -18,6 +18,6 @@ Es muy importante que leas esto para darte algunas especificaciones del circuito
 •	Push Button
 •	PIC16F877A  
 
-//Nota: Alimentar el circuito a 5V para no dañar el microcontrolador
+//Nota: Alimentar el circuito a 5V para no dañar el microcontrolador.
 
 ![LED_Button_bb](https://user-images.githubusercontent.com/105074465/167210753-09e3b9d1-e057-4a11-aa03-ac8985f02105.png)
